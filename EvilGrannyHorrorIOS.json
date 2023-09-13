@@ -1,0 +1,41 @@
+{
+  "FirstPriorityMainMenuToLevel": "Admob",
+  "SecondPriorityMainMenuToLevel": "Unity",
+  "ThirdPriorityMainMenuToLevel": "AppLovin",
+  "FirstPriorityLevelToLoading": "Admob",
+  "SecondPriorityLevelToLoading": "AppLovin",
+  "ThirdPriorityLevelToLoading": "Unity",
+  "FirstPriorityPause": "AppLovin",
+  "SecondPriorityPause": "Unity",
+  "ThirdPriorityPause": "Admob",
+  "FirstPriorityLevelComplete": "Admob",
+  "SecondPriorityLevelComplete": "AppLovin",
+  "ThirdPriorityLevelComplete": "Unity",
+  "FirstPriorityLevelFail": "Unity",
+  "SecondPriorityLevelFail": "AppLovin",
+  "ThirdPriorityLevelFail": "Admob",
+  "FirstPriorityGamePlayToMainMenu": "AppLovin",
+  "SecondPriorityGamePlayToMainMenu": "Unity",
+  "ThirdPriorityGamePlayToMainMenu": "Admob",
+  "FirstPriorityRewarded": "Unity",
+  "SecondPriorityRewarded": "Admob",
+  "ThirdPriorityRewarded": "AppLovin",
+  "FirstPriorityBanner": "Admob",
+  "SecondPriorityBanner": "Unity",
+  "FirstPrioritySmallBanner": "AppLovin",
+  "SecondPrioritySmallBanner": "AppLovin",
+  "PlayButtonInstertitial": false,
+  "LevelButtonInstertitial": false,
+  "PauseButtonInstertitial": false,
+  "LevelCompleteInstertitial": false,
+  "LevelFailInstertitial": false,
+  "MainMenuInstertitial": false,
+  "MainBanner": false,
+  "SmallBanner": false,
+  "Rewarded": true  
+}
+
+//use these for Priority no any other
+//Admob
+//Unity
+//AppLovin
