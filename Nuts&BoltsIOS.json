@@ -29,7 +29,7 @@
   "PlayButtonInstertitial": false,
   "LevelButtonInstertitial": false,
   "PauseButtonInstertitial": false,
-  "LevelCompleteInstertitial": false,
+  "LevelCompleteInstertitial": true,
   "LevelFailInstertitial": false,
   "MainMenuInstertitial": false,
   "MainBanner": false,
