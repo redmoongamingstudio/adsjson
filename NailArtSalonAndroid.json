@@ -35,7 +35,7 @@
   "MainBanner": false,
   "SmallBanner": false,
   "AppOpen": false,
-  "Rewarded": false  
+  "Rewarded": true  
 }
 
 //use these for Priority no any other
