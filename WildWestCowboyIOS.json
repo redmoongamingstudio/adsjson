@@ -27,7 +27,7 @@
   "FirstPriorityAppOpen": "Admob",
   "SecondPriorityAppOpen": "AppLovin",
   "PlayButtonInstertitial": false,
-  "LevelButtonInstertitial": false,
+  "LevelButtonInstertitial": true,
   "PauseButtonInstertitial": false,
   "LevelCompleteInstertitial": false,
   "LevelFailInstertitial": false,
@@ -35,7 +35,7 @@
   "MainBanner": false,
   "SmallBanner": false,
   "AppOpen": false,
-  "Rewarded": false  
+  "Rewarded": true  
 }
 
 //use these for Priority no any other
