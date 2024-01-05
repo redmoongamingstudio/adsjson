@@ -27,7 +27,7 @@
   "FirstPriorityAppOpen": "Admob",
   "SecondPriorityAppOpen": "AppLovin",
   "PlayButtonInstertitial": false,
-  "LevelButtonInstertitial": true,
+  "LevelButtonInstertitial": false,
   "PauseButtonInstertitial": false,
   "LevelCompleteInstertitial": false,
   "LevelFailInstertitial": false,
