@@ -32,7 +32,7 @@
   "LevelCompleteInstertitial": true,
   "LevelFailInstertitial": true,
   "MainMenuInstertitial": true,
-  "MainBanner": true,
+  "MainBanner": false,
   "SmallBanner": true,
   "AppOpen": true,
   "Rewarded": true  
