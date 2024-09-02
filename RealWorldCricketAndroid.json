@@ -9,7 +9,7 @@
   "FirstPriorityMRec": "AppLovin",
   "FirstPrioritySmallBanner": "AppLovin",
   "FirstPriorityAppOpen": "AppLovin",
-  "PlayButtonInstertitial": false,
+  "PlayButtonInstertitial": true,
   "LevelButtonInstertitial": true,
   "PauseButtonInstertitial": false,
   "LevelCompleteInstertitial": true,
