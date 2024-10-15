@@ -12,11 +12,11 @@
   "PlayButtonInstertitial": false,
   "LevelButtonInstertitial": false,
   "PauseButtonInstertitial": false,
-  "LevelCompleteInstertitial": true,
+  "LevelCompleteInstertitial": false,
   "LevelFailInstertitial": false,
   "MainMenuInstertitial": false,
   "MRec": false,
   "SmallBanner": false,
   "AppOpen": false,
-  "Rewarded": true  
+  "Rewarded": false  
 }
