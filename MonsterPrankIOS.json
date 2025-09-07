@@ -7,7 +7,7 @@
   "FirstPriorityGamePlayToMainMenu": "Ad",
   "FirstPriorityRewarded": "Ad",
   "FirstPriorityMRec": "Ad",
-  "FirstPrioritySmallBanner": "Ad",
+  "FirstPrioritySmallBanner": "AppLovin",
   "FirstPriorityAppOpen": "Ad",
   "PlayButtonInstertitial": false,
   "LevelButtonInstertitial": false,
@@ -16,7 +16,7 @@
   "LevelFailInstertitial": false,
   "MainMenuInstertitial": false,
   "MRec": false,
-  "SmallBanner": false,
+  "SmallBanner": true,
   "AppOpen": false,
   "Rewarded": false  
 }
