@@ -1,0 +1,18 @@
+{
+    "CanShowAds": true,
+    "CanShowRewarded": true,
+    "CanShowBanner": true,
+    "CanShowAdaptiveBanner": true,
+    "CanShowAppOpen": true,
+    "CanShowMRec": true,
+    "CanShowLevelCompleteInterstitial": true,
+    "CanShowLevelFailInterstitial": true,
+    "CanShowMainMenuToLevelInterstitial": true,
+    "CanShowLevelToLoadingInterstitial": true,
+    "CanShowGamePlayToMainMenuInterstitial": true,
+    "CanShowPauseInterstitial": true,
+    "CanShowPeriodicInterstitial": true,
+    "CanShowAppOpenOnApplicationResume": true,
+    "CanShowAppOpenOnRewardedClose": false,
+    "CanShowAppOpenOnInterstitialClose":false
+}
