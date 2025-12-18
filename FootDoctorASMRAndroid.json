@@ -10,13 +10,13 @@
   "FirstPrioritySmallBanner": "AppLovin",
   "FirstPriorityAppOpen": "AppLovin",
   "PlayButtonInstertitial": false,
-  "LevelButtonInstertitial": true,
-  "PauseButtonInstertitial": true,
-  "LevelCompleteInstertitial": true,
-  "LevelFailInstertitial": true,
-  "MainMenuInstertitial": true,
-  "MRec": true,
-  "SmallBanner": true,
-  "AppOpen": true,
-  "Rewarded": true  
+  "LevelButtonInstertitial": false,
+  "PauseButtonInstertitial": false,
+  "LevelCompleteInstertitial": false,
+  "LevelFailInstertitial": false,
+  "MainMenuInstertitial": false,
+  "MRec": false,
+  "SmallBanner": false,
+  "AppOpen": false,
+  "Rewarded": false  
 }
