@@ -1,14 +1,14 @@
 {
-  "FirstPriorityMainMenuToLevel": "App",
-  "FirstPriorityLevelToLoading": "App",
-  "FirstPriorityPause": "App",
-  "FirstPriorityLevelComplete": "App",
-  "FirstPriorityLevelFail": "App",
-  "FirstPriorityGamePlayToMainMenu": "App",
-  "FirstPriorityRewarded": "App",
-  "FirstPriorityMRec": "App",
-  "FirstPrioritySmallBanner": "App",
-  "FirstPriorityAppOpen": "App",
+  "FirstPriorityMainMenuToLevel": "AppLovin",
+  "FirstPriorityLevelToLoading": "AppLovin",
+  "FirstPriorityPause": "AppLovin",
+  "FirstPriorityLevelComplete": "AppLovin",
+  "FirstPriorityLevelFail": "AppLovin",
+  "FirstPriorityGamePlayToMainMenu": "AppLovin",
+  "FirstPriorityRewarded": "AppLovin",
+  "FirstPriorityMRec": "AppLovin",
+  "FirstPrioritySmallBanner": "AppLovin",
+  "FirstPriorityAppOpen": "AppLovin",
   "PlayButtonInstertitial": false,
   "LevelButtonInstertitial": false,
   "PauseButtonInstertitial": false,
@@ -20,8 +20,3 @@
   "AppOpen": false,
   "Rewarded": false  
 }
-
-//use these for Priority no any other
-//Admob
-//Unity
-//AppLovin
