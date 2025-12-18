@@ -4,7 +4,7 @@
     "CanShowBanner": true,
     "CanShowAdaptiveBanner": true,
     "CanShowAppOpen": true,
-    "CanShowMRec": true,
+    "CanShowMRec": false,
     "CanShowLevelCompleteInterstitial": true,
     "CanShowLevelFailInterstitial": true,
     "CanShowMainMenuToLevelInterstitial": true,
