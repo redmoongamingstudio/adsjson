@@ -29,14 +29,14 @@
   "FirstPriorityAppOpen": "Admob",
   "SecondPriorityAppOpen": "AppLovin",
   
-  "PlayButtonInstertitial": true,
-  "LevelButtonInstertitial": true,
-  "PauseButtonInstertitial": true,
-  "LevelCompleteInstertitial": true,
-  "LevelFailInstertitial": true,
-  "MainMenuInstertitial": true,
-  "MRec": true,
-  "SmallBanner": true,
-  "AppOpen": true,
+  "PlayButtonInstertitial": false,
+  "LevelButtonInstertitial": false,
+  "PauseButtonInstertitial": false,
+  "LevelCompleteInstertitial": false,
+  "LevelFailInstertitial": false,
+  "MainMenuInstertitial": false,
+  "MRec": false,
+  "SmallBanner": false,
+  "AppOpen": false,
   "Rewarded": true  
 }
