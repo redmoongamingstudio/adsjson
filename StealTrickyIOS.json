@@ -1,33 +1,33 @@
 {
   "FirstPriorityMainMenuToLevel": "Admob",
-  "SecondPriorityMainMenuToLevel": "AppLovin",
+  "SecondPriorityMainMenuToLevel": "LevelPlay",
   
   "FirstPriorityLevelToLoading": "Admob",
-  "SecondPriorityLevelToLoading": "AppLovin",
+  "SecondPriorityLevelToLoading": "LevelPlay",
   
   "FirstPriorityPause": "Admob",
-  "SecondPriorityPause": "AppLovin",
+  "SecondPriorityPause": "LevelPlay",
   
   "FirstPriorityLevelComplete": "Admob",
-  "SecondPriorityLevelComplete": "AppLovin",
+  "SecondPriorityLevelComplete": "LevelPlay",
   
   "FirstPriorityLevelFail": "Admob",
-  "SecondPriorityLevelFail": "AppLovin",
+  "SecondPriorityLevelFail": "LevelPlay",
   
   "FirstPriorityGamePlayToMainMenu": "Admob",
-  "SecondPriorityGamePlayToMainMenu": "AppLovin",
+  "SecondPriorityGamePlayToMainMenu": "LevelPlay",
   
   "FirstPriorityRewarded": "Admob",
-  "SecondPriorityRewarded": "AppLovin",
+  "SecondPriorityRewarded": "LevelPlay",
   
   "FirstPriorityMRec": "Admob",
-  "SecondPriorityMRec": "Admob",
+  "SecondPriorityMRec": "LevelPlay",
   
   "FirstPrioritySmallBanner": "Admob",
-  "SecondPrioritySmallBanner": "AppLovin",
+  "SecondPrioritySmallBanner": "LevelPlay",
   
   "FirstPriorityAppOpen": "Admob",
-  "SecondPriorityAppOpen": "AppLovin",
+  "SecondPriorityAppOpen": "Admob",
   
   "PlayButtonInstertitial": true,
   "LevelButtonInstertitial": true,
