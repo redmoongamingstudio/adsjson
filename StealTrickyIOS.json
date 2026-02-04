@@ -1,30 +1,30 @@
 {
   "FirstPriorityMainMenuToLevel": "Admob",
-  "SecondPriorityMainMenuToLevel": "LevelPlay",
+  "SecondPriorityMainMenuToLevel": "Admob",
   
   "FirstPriorityLevelToLoading": "Admob",
-  "SecondPriorityLevelToLoading": "LevelPlay",
+  "SecondPriorityLevelToLoading": "Admob",
   
   "FirstPriorityPause": "Admob",
-  "SecondPriorityPause": "LevelPlay",
+  "SecondPriorityPause": "Admob",
   
   "FirstPriorityLevelComplete": "Admob",
-  "SecondPriorityLevelComplete": "LevelPlay",
+  "SecondPriorityLevelComplete": "Admob",
   
   "FirstPriorityLevelFail": "Admob",
-  "SecondPriorityLevelFail": "LevelPlay",
+  "SecondPriorityLevelFail": "Admob",
   
   "FirstPriorityGamePlayToMainMenu": "Admob",
-  "SecondPriorityGamePlayToMainMenu": "LevelPlay",
+  "SecondPriorityGamePlayToMainMenu": "Admob",
   
   "FirstPriorityRewarded": "Admob",
-  "SecondPriorityRewarded": "LevelPlay",
+  "SecondPriorityRewarded": "Admob",
   
   "FirstPriorityMRec": "Admob",
-  "SecondPriorityMRec": "LevelPlay",
+  "SecondPriorityMRec": "Admob",
   
   "FirstPrioritySmallBanner": "Admob",
-  "SecondPrioritySmallBanner": "LevelPlay",
+  "SecondPrioritySmallBanner": "Admob",
   
   "FirstPriorityAppOpen": "Admob",
   "SecondPriorityAppOpen": "Admob",
