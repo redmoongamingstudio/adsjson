@@ -1,5 +1,5 @@
 {
-  "FirstPriorityMainMenuToLevel": "Admob",
+  "FirstPriorityMainMenuToLevel": "LevelPlay",
   "SecondPriorityMainMenuToLevel": "LevelPlay",
   
   "FirstPriorityLevelToLoading": "Admob",
@@ -9,7 +9,7 @@
   "SecondPriorityPause": "LevelPlay",
   
   "FirstPriorityLevelComplete": "Admob",
-  "SecondPriorityLevelComplete": "LevelPlay",
+  "SecondPriorityLevelComplete": "Admob",
   
   "FirstPriorityLevelFail": "Admob",
   "SecondPriorityLevelFail": "LevelPlay",
