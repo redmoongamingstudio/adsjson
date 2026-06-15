@@ -8,8 +8,8 @@
   "FirstPriorityPause": "Admob",
   "SecondPriorityPause": "LevelPlay",
   
-  "FirstPriorityLevelComplete": "Admob",
-  "SecondPriorityLevelComplete": "LevelPlay",
+  "FirstPriorityLevelComplete": "LevelPlay",
+  "SecondPriorityLevelComplete": "Admob",
   
   "FirstPriorityLevelFail": "Admob",
   "SecondPriorityLevelFail": "LevelPlay",
@@ -17,8 +17,8 @@
   "FirstPriorityGamePlayToMainMenu": "Admob",
   "SecondPriorityGamePlayToMainMenu": "LevelPlay",
   
-  "FirstPriorityRewarded": "Admob",
-  "SecondPriorityRewarded": "LevelPlay",
+  "FirstPriorityRewarded": "LevelPlay",
+  "SecondPriorityRewarded": "Admob",
   
   "FirstPriorityMRec": "Admob",
   "SecondPriorityMRec": "LevelPlay",
