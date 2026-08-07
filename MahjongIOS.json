@@ -37,6 +37,6 @@
   "MainMenuInstertitial": true,
   "MRec": true,
   "SmallBanner": true,
-  "AppOpen": false,
+  "AppOpen": true,
   "Rewarded": true  
 }
